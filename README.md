@@ -16,7 +16,7 @@ Results we got on the Test data were good, which are shown below:
 
 Class 0 = Class of Negative Tweets\
 Class 1 = Class of Neutral Tweets\
-Class 2 = Class of Positive Tweets\
+Class 2 = Class of Positive Tweets
 
 
 ![alt text](https://github.com/WaizKhan7/Sentiment-Analysis-of-Tweets-Using-Naive-Bayes/blob/main/Results/results1.PNG?raw=true)
