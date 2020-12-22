@@ -18,4 +18,17 @@ Class 0 = Class of Negative Tweets\
 Class 1 = Class of Neutral Tweets\
 Class 2 = Class of Positive Tweets\
 
+
 ![alt text](https://github.com/WaizKhan7/Sentiment-Analysis-of-Tweets-Using-Naive-Bayes/blob/main/Results/results1.PNG?raw=true)
+
+**Confusion Matrix for Negative Tweets:**
+
+![alt text](https://github.com/WaizKhan7/Sentiment-Analysis-of-Tweets-Using-Naive-Bayes/blob/main/Results/negative.PNG?raw=true)
+
+**Confusion Matrix for Neutral Tweets:**
+
+![alt text](https://github.com/WaizKhan7/Sentiment-Analysis-of-Tweets-Using-Naive-Bayes/blob/main/Results/neutral.PNG?raw=true)
+
+**Confusion Matrix for Positive Tweets:**
+
+![alt text](https://github.com/WaizKhan7/Sentiment-Analysis-of-Tweets-Using-Naive-Bayes/blob/main/Results/positive.PNG?raw=true)
