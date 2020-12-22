@@ -14,3 +14,7 @@ Then prior and likelihood of words were calculated and prediction were made abou
 
 Results we got on the Test data were good, which are shown below:
 
+Class 0 = Class of Negative Tweets\
+Class 1 = Class of Neutral Tweets\
+Class 2 = Class of Positive Tweets\
+
